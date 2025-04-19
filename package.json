@@ -1,0 +1,16 @@
+{
+  "name": "code-node",
+  "version": "1.0.0",
+  "description": "Node JS Examples",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raulsr92/NodeJS_Fundamentos"
+  },
+  "license": "MIT",
+  "author": "Raúl Sánchez <raul.sr92@gmail.com> (coding with Raul)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
